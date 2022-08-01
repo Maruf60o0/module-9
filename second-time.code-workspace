@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../haha/second-time"
+		},
+		{
+			"path": "../Assignment-01"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "second-time"
+	}
+}
